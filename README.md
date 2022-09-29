@@ -9,6 +9,9 @@ Run projetco
 
 ## Run project
 
---- Create .env file and set settings
+=== Create mysql database(run file database.mysql in root project)
+
+
+=== Create .env file and set settings
 
 <i> After run : ``` go run main.go ``` </i>
